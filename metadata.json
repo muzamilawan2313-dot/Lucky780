@@ -1,0 +1,6 @@
+{
+  "name": "Luck780",
+  "description": "Vibrant festive gaming lobby, lucky spin wheel, mini-games, wallet management, and AI VIP support hub for Luck780.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
